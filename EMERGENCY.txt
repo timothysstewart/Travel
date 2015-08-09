@@ -1,0 +1,72 @@
+Personal Information / persönliche Informationen / Información Personal / information Personnelle / 个人信息:
+====================
+====================
+
+Name
+Address
+City, state, ZIP Code
+UNITED STATES OF AMERICA
+
+Phone (+1-555-123-5555)
+Email (email@example.com)
+
+
+Emergency / Notfall / Emergencia / Urgence / 急
+====================
+====================
+
+English
+====================
+
+
+Contact these People:
+
+Name
+phone:
+address:
+email:
+alternate phone:
+
+Deutsch (German)
+====================
+
+Kontaktieren Sie diese Leute:
+
+Name
+Telefon:
+Adresse:
+email:
+alternative Telefon:
+
+Español (Spanish)
+====================
+
+Póngase en contacto con estas personas:
+
+Name
+teléfono:
+dirección:
+correo electrónico:
+teléfono alternativo:
+
+Français (French)
+====================
+
+Contactez ces personnes:
+
+Name
+téléphone:
+adresse:
+email:
+autre numéro de téléphone:
+
+中国 (Chinese)
+====================
+
+与这些人接触:
+
+Name
+电话:
+地址:
+电子邮件:
+备用电话:

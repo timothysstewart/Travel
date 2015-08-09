@@ -1,0 +1,44 @@
+        |
+     __ n __
+X------[O]------X
+
+FLIGHT INFORMATION
+Booking #: 
+Invoice #: 
+
+departing
+xxxday, Month 00, 2015 | airline
+XX0000 | (AAA) 00:00 PM - (BBB) 00:00 PM (next day)
+XX0001 | (BBB) 00:00 PM - (CCC) 00:00 PM
+Arriving in City xxxday, Month 00
+
+returning
+xxxday, Month 00, 2015 | airline
+XX0002 | (CCC) 00:00 AM - (BBB) 00:00 AM
+XX0003 | (BBB) 00:00 PM - (AAA) 00:00 PM
+
+
+         ____.........__H_
+      __/%%%%|%%%%%%%|%%%%\
+ _ ()/%%|:II:|II:::II|:II:|_ _ _
+|-(()|--|:II:|II:H:II|:II:|-|-|-|
+`'.'"^  ^` "^ "^|"|^'"' `^`-.^~'
+
+~.:.~.:.~.:.~.:.~.:.~.:.~.:.~.:.~
+
+HOTEL INFORMATION
+
+CITY
+Hotel Name
+Address:       
+Phone:         
+Check-in:      Xxx, Month 00, 2015  - 14:00 - 22:00
+Check-out:     Xxx, Month 01, 2015  - 10:00
+
+Agent US:      +1-800-657-9168 
+Worldwide:     +1 212 444 0022
+Destination:   +800 774 23546
+Confirmation:  XXXXXXXX
+
+====================
+
